@@ -1,7 +1,7 @@
 ### Начало работы
 - Склонируйте репозиторий 
 ```
-sudo git clone name repository
+sudo git clone git@github.com:makiintoch/docker-symfony.git
 ```
 - Переименуйте папку в домен сайта 
 ```
